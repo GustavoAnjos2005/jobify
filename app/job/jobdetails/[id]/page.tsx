@@ -29,11 +29,11 @@ const JobDetails =  async ({ params }: {params: { id : string }}) => {
         <div className='mt-16 w-[80%] mx-auto'>
             <h1 className='text-[20px] font-semibold'>Descrição</h1>
             <p className='mt-4 text-black text-opacity-70'>
-                Somente Teste :) <br />Sonhar que está comendo uma maria-mole gigante pode significar acordar sem o travesseiro!. Por que 'tudo junto' se escreve separado e 'separado' se escreve tudo junto?. Mais vale um pássaro na mão do que bois voando.. Antes tarde do que mais tarde.. O importante é o que importa..
+                Somente Teste  <br />Sonhar que está comendo uma maria-mole gigante pode significar acordar sem o travesseiro!. Por que tudo junto se escreve separado e separado se escreve tudo junto?. Mais vale um pássaro na mão do que bois voando.. Antes tarde do que mais tarde.. O importante é o que importa..
             </p>
             <h1 className='text-[20px] mt-8 font-semibold'>Responsabilidades</h1>
             <p className='mt-4 text-black text-opacity-70'>
-                Somente Teste :) <br />Sonhar que está comendo uma maria-mole gigante pode significar acordar sem o travesseiro!. Por que 'tudo junto' se escreve separado e 'separado' se escreve tudo junto?. Mais vale um pássaro na mão do que bois voando.. Antes tarde do que mais tarde.. O importante é o que importa..
+                Somente Teste  <br />Sonhar que está comendo uma maria-mole gigante pode significar acordar sem o travesseiro!. Por que tudo junto se escreve separado e separado se escreve tudo junto?. Mais vale um pássaro na mão do que bois voando.. Antes tarde do que mais tarde.. O importante é o que importa..
             </p>
             <h1 className='text-[20px] mt-8 font-semibold'>Habilidades Necessárias</h1>
             <ul className='mt-4'>
